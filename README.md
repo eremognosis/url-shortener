@@ -197,6 +197,12 @@ To try the API manually, run:
 python3 app.py
 ```
 
+Be Normal and use
+```bash
+docker compose up --build
+``` (or add yourself to docker group if it yells)
+
+
 Then send requests to `http://127.0.0.1:8080`.
 
 Example:
